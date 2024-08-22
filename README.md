@@ -1,6 +1,6 @@
 # Simulating Thermodynamic Properties of Dinuclear Metal Complexes using Variational Quantum Algorithms
 
-This repository houses the codes and scripts developed for our study[^1], in which we applied the Variational Quantum Thermalizer Algorithm[^2] to simulate the thermodynamic properties of metal complexes. Below, I've included a detailed description of the main files in the repository.
+This repository houses the codes and scripts developed for our study[^1], in which we applied the Variational Quantum Thermalizer Algorithm[^2] to simulate the thermodynamic properties of metal complexes. Below, I've included a description of the main files in the repository.
 
 ## Files
 
